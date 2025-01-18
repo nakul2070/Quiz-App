@@ -1,0 +1,103 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+  }
+  
+  h1, h2, h3 {
+    color: #444;
+  }
+  
+  /* Centered Container */
+  .centered-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  /* Start Page Styles */
+  .start-page input[type="email"] {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .start-page button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .start-page button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Quiz Page Styles */
+  .quiz-page {
+    padding: 20px;
+  }
+  
+  .timer {
+    font-size: 18px;
+    font-weight: bold;
+    color: #d9534f;
+    margin-bottom: 20px;
+  }
+  
+  .quiz-page h2 {
+    margin: 20px 0;
+  }
+  
+  .quiz-page button {
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #007bff;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .quiz-page button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Report Page Styles */
+  .report-page {
+    padding: 20px;
+  }
+  
+  .report-page h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .report-page p {
+    font-size: 16px;
+    margin: 5px 0;
+  }
+  
+  .report-page p.correct {
+    color: #28a745;
+  }
+  
+  .report-page p.incorrect {
+    color: #dc3545;
+  }
+  
