@@ -26,7 +26,7 @@ Clone the Repository Open your terminal and run the following command to clone t
 bash
 Copy
 Edit
-git clone https://github.com/your-username/quiz-app.git
+git clone (https://github.com/nakul2070/Quiz-App)
 Navigate to the project folder
 
 bash
@@ -45,7 +45,7 @@ bash
 Copy
 Edit
 npm start
-The app will be available at http://localhost:3000/.
+The app will be available at (http://localhost:3000).
 
 Assumptions
 Users will be required to provide a valid email address to start the quiz.
