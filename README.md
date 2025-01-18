@@ -24,7 +24,7 @@ To set up and run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   git clone (https://github.com/nakul2070/Quiz-App)
 Navigate to the project directory:
 
 bash
@@ -91,8 +91,8 @@ This project is open-source and available under the MIT License.
 📬 Contact
 For any questions, feedback, or issues, feel free to reach out to me via:
 
-Email: your-email@example.com
-GitHub: @your-username
+Email: your-nakulbisen01@gmail.com
+GitHub: nakul2070
 🌱 Future Enhancements
 Add more question categories (Science, History, Sports, etc.)
 Implement a scoring system to give users feedback after each quiz.
